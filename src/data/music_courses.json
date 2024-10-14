@@ -1,0 +1,76 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Amazon Music Clone",
+      "slug": "Amazon Music Clone",
+      "description": "Amazon Music is a streaming service offering millions of songs, playlists, and albums, with options for ad-free listening, offline downloads.",
+      "price": 99.99,
+      "instructor": "self",
+      "isFeatured": true,
+      "github": "https://github.com/Tejmul/Music-App",
+      "livelink": "https://music-app-lovat-seven.vercel.app/",
+      "image": "/courses/amazon.avif"
+    },
+    {
+      "id": 2,
+      "title": "Twitter Clone",
+      "slug": "Twitter Clone",
+      "description": "A front-end clone of Twitter featuring the core functionalities like posting tweets, following users, and a feed display.",
+      "price": 49.99,
+      "instructor": "Tejmul",
+      "isFeatured": false,
+      "github": "https://github.com/Tejmul/Twitter-Clone",
+      "livelink": "https://tejmul.github.io/Twitter-Clone/",
+      "image": "/courses/twitter.png"
+    },
+    {
+      "id": 3,
+      "title": "2048-Game",
+      "slug": "2048",
+      "description": "2048 is a challenging sliding puzzle game where players combine numbered tiles to reach the 2048 tile while strategizing to maximize their score.",
+      "price": 29.99,
+      "instructor": "Tejmul",
+      "isFeatured": true,
+      "github": "https://github.com/Tejmul/2048-game",
+      "livelink": "https://tejmul.github.io/2048-game/",
+      "image": "/courses/2048.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Pixel Pen",
+      "slug": "Pixel Pen",
+      "description": "A live coding environment where users can write HTML, CSS, and JS, and see the output in real-time with a reset button.",
+      "price": 59.99,
+      "instructor": "Tejmul",
+      "isFeatured": false,
+      "github": "https://github.com/Tejmul/pixelpen",
+      "livelink": "pixelpen-lac.vercel.app",
+      "image": "/courses/pixelpen.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "Movie-Deck",
+      "slug": "Movie-Dek",
+      "description": "Movie Deck is a dynamic platform offering curated movie recommendations with personalized ratings and reviews.",
+      "price": 19.99,
+      "instructor": "Tejmul",
+      "isFeatured": false,
+      "github": "https://github.com/Tejmul/Movie-Deck",
+      "livelink": "https://tejmul.github.io/Movie-Deck/",
+      "image": "/courses/Movie deck.png"
+    },
+    {
+      "id": 5,
+      "title": "Tic-Tac-Toe",
+      "slug": "Tic-Tac-Toe",
+      "description": "Tic Tac Toe is a classic two-player game where participants take turns marking Xs and Os on a 3x3 grid, aiming to align three of their symbols in a row, column, or diagonal.",
+      "price": 19.99,
+      "instructor": "Tejmul",
+      "isFeatured": false,
+      "github": "https://github.com/Tejmul/TIC-TAC-TOE",
+      "livelink": "https://tejmul.github.io/TIC-TAC-TOE/",
+      "image": "/courses/tictactoe.jpeg"
+    }
+  ]
+}
