@@ -16,12 +16,12 @@ function page() {
       <div>
         <BackgroundBeams />
       </div>
-      <div className="w-screen bg-neutral-950 rounded-l-md flex items-center justify-center p-40 flex-col md:flex-row md:items-start">
+      <div className="w-screen bg-neutral-950 rounded-l-md flex items-center justify-center p-40 flex-col md:flex-row md:items-start md:gap-[20px] ">
         {/* Your Photo */}
         <img
           src="/courses/Tejmul.jpeg" 
           alt="Your Photo"
-          className="rounded-full w-[450px] h-[450px] mx-auto mb-4 z-10"
+          className="rounded-full lg:w-[450px] lg:h-[450px] mx-auto mb-4 z-10 sm:w-auto sm:h-auto"
         />
         <div>
           <h1 className="relative z-10 text-lg md:text-7xl  bg-clip-text text-transparent bg-gradient-to-b from-neutral-200 to-neutral-600  text-center font-sans font-bold">
