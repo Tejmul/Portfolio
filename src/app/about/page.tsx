@@ -19,7 +19,7 @@ function page() {
       <div className="w-screen bg-neutral-950 rounded-l-md flex items-center justify-center p-40 flex-col md:flex-row md:items-start">
         {/* Your Photo */}
         <img
-          src="/courses/tejmul.jpeg" 
+          src="/courses/Tejmul.jpeg" 
           alt="Your Photo"
           className="rounded-full w-[450px] h-[450px] mx-auto mb-4 z-10"
         />
