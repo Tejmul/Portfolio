@@ -27,7 +27,7 @@ const instructors = [
     id: 4,
     name: "Typescript",
     designation:"",
-    image: "/techstack/typescript.png",
+    image: "/techstack/Typescript.png",
   },
   {
     id: 5,
