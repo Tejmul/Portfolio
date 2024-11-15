@@ -10,7 +10,7 @@
       "isFeatured": true,
       "github": "https://github.com/Tejmul/Music-App",
       "livelink": "https://music-app-lovat-seven.vercel.app/",
-      "image": "/courses/amazon.avif"
+      "image": "/courses/Front.png"
     },
     {
       "id": 2,
@@ -71,6 +71,18 @@
       "github": "https://github.com/Tejmul/TIC-TAC-TOE",
       "livelink": "https://tejmul.github.io/TIC-TAC-TOE/",
       "image": "/courses/tictactoe.jpeg"
+    },
+    {
+      "id": 6,
+      "title": "Amazon Music Backend",
+      "slug": "Amazon Backend",
+      "description": "Authentication for Amazon Music Clone",
+      "price": 19.99,
+      "instructor": "Tejmul",
+      "isFeatured": false,
+      "github": "https://github.com/Tejmul/Amazon-Backend",
+      "livelink": "amazon-backend-ecru.vercel.app/",
+      "image": "/courses/amazon.avif"
     }
   ]
 }

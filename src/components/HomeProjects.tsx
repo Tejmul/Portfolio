@@ -7,7 +7,7 @@ export const products = [
   {
     title: "Amazon Music Clone",
     link: "music-app-lovat-seven.vercel.app",
-    thumbnail: "/courses/amazon.avif",
+    thumbnail: "/courses/Front.png",
   },
   {
     title: "Movie Deck",
@@ -33,8 +33,12 @@ export const products = [
     title: "Pixel Pen",
     link: "https://github.com/Tejmul/pixelpen",
     thumbnail: "/courses/pixelpen.jpeg",
+  },
+  {
+    title: "Amazon Backend",
+    link: "amazon-backend-ecru.vercel.app/",
+    thumbnail: "/courses/pixelpen.jpeg",
   }
-
 
 ];
 

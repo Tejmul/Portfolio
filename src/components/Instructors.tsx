@@ -2,6 +2,7 @@
 import { Spotlight } from "./ui/Spotlight";
 import { AnimatedTooltip } from "./ui/animated-tooltip";
 import { IconCloud } from "./IconCloud";
+import { WavyBackground } from "./ui/wavy-background";
 
 const instructors = [
   {
@@ -111,21 +112,19 @@ function Instructors() {
     "git",
   ];
   return (
-    <div className="h-auto md:h-[70rem] w-full rounded-md flex flex-col items-center justify-center relative overflow-hidden mx-auto py-10 md:py-0">
-      <Spotlight className="-top-40 left-0 md:left-60 md:-top-20" fill="cyan" />
-      <h2 className="text-2xl md:text-4xl lg:text-7xl text-white font-bold text-center mb-8 ">
-        My Skills
-      </h2>
-      <p className="text-base md:text-lg text-white text-center mb-2">
-        My skills include a deep dive into several remarkable technologies that
-        I've worked with.
-      </p>
-      <div className="flex flex-col gap-10">
-        <IconCloud iconSlugs={iconSlugs} />
-        <div className="flex flex-row items-center justify-center w-full">
+    <div className="relative h-[40rem] overflow-hidden flex items-center justify-center">
+      <WavyBackground className="w-full max-w-7xl mx-auto flex flex-col items-center justify-center h-full">
+        <h2 className="text-2xl md:text-4xl lg:text-7xl text-white font-bold text-center mb-8 ">
+          My TechStack
+        </h2>
+        <p className="text-base md:text-lg text-white text-center mb-4">
+          Here are few amazing technologies I have worked with and deep-dived
+          into
+        </p>
+        <div className="flex flex-row items-center justify-center mb-10 w-full">
           <AnimatedTooltip items={instructors} />
         </div>
-      </div>
+      </WavyBackground>
     </div>
   );
 }
