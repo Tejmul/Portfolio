@@ -83,6 +83,30 @@
       "github": "https://github.com/Tejmul/Amazon-Backend",
       "livelink": "amazon-backend-ecru.vercel.app/",
       "image": "/courses/amazon.avif"
+    },
+    {
+      "id": 7,
+      "title": "IVF-Calculator",
+      "slug": "IVF",
+      "description": " A Calculator Estimates the arrival of your baby and tells you how pregnant you are.",
+      "price": 19.99,
+      "instructor": "Tejmul",
+      "isFeatured": false,
+      "github": "https://github.com/Tejmul/IVF-Calculator",
+      "livelink": "https://ivf-calculator-one.vercel.app/",
+      "image": "/courses/ivf.jpeg"
+    },
+    {
+      "id": 8,
+      "title": "College Appointment System Server",
+      "slug": "Appointment",
+      "description": "Where a Student can Book an appointment with server",
+      "price": 19.99,
+      "instructor": "Tejmul",
+      "isFeatured": false,
+      "github": "https://github.com/Tejmul/college-appointment-system-server",
+      "livelink": "https://college-appointment-system-server.vercel.app/",
+      "image": "/courses/appointment.png"
     }
   ]
 }

@@ -92,6 +92,12 @@ const instructors = [
     designation:"",
     image: "/techstack/git.png",
   },
+  {
+    id : 16,
+    name : "Prisma",
+    designation:"",
+    image:"/techstack/prisma.jpg"
+  }
 ];
 
 function Instructors() {
@@ -110,6 +116,7 @@ function Instructors() {
     "bootstrap",
     "tailwindcss",
     "git",
+    "prisma",
   ];
   return (
     <div className="relative h-[40rem] overflow-hidden flex items-center justify-center">

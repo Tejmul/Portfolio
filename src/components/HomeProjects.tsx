@@ -37,8 +37,18 @@ export const products = [
   {
     title: "Amazon Backend",
     link: "amazon-backend-ecru.vercel.app/",
-    thumbnail: "/courses/pixelpen.jpeg",
-  }
+    thumbnail: "/courses/amazon.avif",
+  },
+  {
+    title: "IVF-Calculator",
+    link: "https://ivf-calculator-one.vercel.app/",
+    thumbnail: "/courses/ivf.jpeg",
+  },
+  {
+    title: "College-Appointment System Server",
+    link: "https://github.com/Tejmul/college-appointment-system-server",
+    thumbnail: "/courses/appointment.png",
+  },
 
 ];
 
