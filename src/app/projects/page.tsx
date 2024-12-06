@@ -14,7 +14,7 @@ function page() {
   return (
     <div className="min-h-screen bg-black py-12 pt-36">
       <div>
-        <Boxes />
+        <BackgroundBeams />
       </div>
       <div className="flex flex-wrap justify-center">
         {courseData.courses.map((course) => (
