@@ -48,7 +48,7 @@ function page() {
 
           </p>
           <br/>
-          <Link href="https://drive.google.com/file/d/1akqZka0xVz9iJyTEEjqKItA4nHq7sh3W/view" target="_blank">
+          <Link href="https://drive.google.com/file/d/1vneYycRqGgDBlcoESD41Opnabl9tjWTE/view?usp=sharing" target="_blank">
             <ButtonX>Checkout Resume</ButtonX>
           </Link>
         </div>
