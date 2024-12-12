@@ -14,27 +14,27 @@
     },
     {
       "id": 2,
-      "title": "Twitter Clone",
-      "slug": "Twitter Clone",
-      "description": "A front-end clone of Twitter featuring the core functionalities like posting tweets, following users, and a feed display.",
-      "price": 49.99,
+      "title": "College Appointment System Server",
+      "slug": "Appointment",
+      "description": "Where a Student can Book an appointment with server",
+      "price": 19.99,
       "instructor": "Tejmul",
       "isFeatured": false,
-      "github": "https://github.com/Tejmul/Twitter-Clone",
-      "livelink": "https://tejmul.github.io/Twitter-Clone/",
-      "image": "/courses/twitter.png"
+      "github": "https://github.com/Tejmul/college-appointment-system-server",
+      "livelink": "https://college-appointment-system-server.vercel.app/",
+      "image": "/courses/appointment.png"
     },
     {
       "id": 3,
-      "title": "2048-Game",
-      "slug": "2048",
-      "description": "2048 is a challenging sliding puzzle game where players combine numbered tiles to reach the 2048 tile while strategizing to maximize their score.",
+      "title": "Hot-News",
+      "slug": "News",
+      "description": "Developed HOT-NEWS, a responsive real-time news application powered by the G News API.",
       "price": 29.99,
       "instructor": "Tejmul",
       "isFeatured": true,
-      "github": "https://github.com/Tejmul/2048-game",
-      "livelink": "https://tejmul.github.io/2048-game/",
-      "image": "/courses/2048.jpg"
+      "github": "https://github.com/Tejmul/Hot-News",
+      "livelink": "https://hot-news-ashen.vercel.app/",
+      "image": "/courses/news.avif"
     },
     {
       "id": 4,
@@ -98,15 +98,39 @@
     },
     {
       "id": 8,
-      "title": "College Appointment System Server",
-      "slug": "Appointment",
-      "description": "Where a Student can Book an appointment with server",
+      "title": "What-Bytes",
+      "slug": "Whatbytes",
+      "description": "Statistics Calculator",
       "price": 19.99,
       "instructor": "Tejmul",
       "isFeatured": false,
-      "github": "https://github.com/Tejmul/college-appointment-system-server",
-      "livelink": "https://college-appointment-system-server.vercel.app/",
-      "image": "/courses/appointment.png"
+      "github": "https://github.com/Tejmul/What-Bytes",
+      "livelink": "https://what-bytes-tau.vercel.app/",
+      "image": "/courses/What-Bytes.png"
+    },
+    {
+      "id": 9,
+      "title": "Twitter Clone",
+      "slug": "Twitter Clone",
+      "description": "A front-end clone of Twitter featuring the core functionalities like posting tweets, following users, and a feed display.",
+      "price": 49.99,
+      "instructor": "Tejmul",
+      "isFeatured": false,
+      "github": "https://github.com/Tejmul/Twitter-Clone",
+      "livelink": "https://tejmul.github.io/Twitter-Clone/",
+      "image": "/courses/twitter.png"
+    },
+    {
+      "id": 10,
+      "title": "2048-Game",
+      "slug": "2048",
+      "description": "2048 is a challenging sliding puzzle game where players combine numbered tiles to reach the 2048 tile while strategizing to maximize their score.",
+      "price": 29.99,
+      "instructor": "Tejmul",
+      "isFeatured": true,
+      "github": "https://github.com/Tejmul/2048-game",
+      "livelink": "https://tejmul.github.io/2048-game/",
+      "image": "/courses/2048.jpg"
     }
   ]
 }

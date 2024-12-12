@@ -49,6 +49,16 @@ export const products = [
     link: "https://github.com/Tejmul/college-appointment-system-server",
     thumbnail: "/courses/appointment.png",
   },
+  {
+    title: "What-Bytes",
+    link: "https://what-bytes-tau.vercel.app/",
+    thumbnail: "/courses/What-Bytes.png",
+  },
+  {
+    title: "Hot-News",
+    link: "https://hot-news-ashen.vercel.app/",
+    thumbnail: "/courses/news.avif",
+  },
 
 ];
 
